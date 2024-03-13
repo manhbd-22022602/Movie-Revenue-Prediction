@@ -1,5 +1,5 @@
 # Movie-Revenue-Prediction-Model
-*** Toàn bộ báo cáo của dự án này đều được tổng hợp trong file: final.ipynb
+  Toàn bộ báo cáo của dự án này đều được tổng hợp trong file: final.ipynb
 
 ## Introduction
 Dự án này được hoàn thành bởi nhóm 7. Là dự án học máy đầu tiên mà nhóm chúng tôi thực hiện, nó đã được chứng minh là một trải nghiệm học tập vô cùng quý giá. Chúng tôi đã học được rất nhiều điều trong quá trình thực hiện và thực sự đã nỗ lực hết mình, tuy nhiên, sai lầm là một phần tự nhiên của quá trình học hỏi và chúng tôi có thể đã mắc phải một số lỗi. Mọi phản hồi và phê bình mang tính xây dựng không chỉ được hoan nghênh mà còn được khuyến khích.
